@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 , TSI
+https://bcovlive-a.akamaihd.net/5a4db02a43d645729f273b91c5ba9238/us-west-2/6056665196001/profile_3/chunklist.m3u8
+#EXTINF:-1 , Canal 5
+https://bcovlive-a.akamaihd.net/8520a5c6a0384300b735385e02e2f582/us-west-2/6056665196001/profile_0/chunklist.m3u8
